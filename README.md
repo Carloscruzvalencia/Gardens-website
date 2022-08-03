@@ -2,7 +2,7 @@
 
 ## Inpiracion del proyecto & objetivo
 
--  El objetivo es aprender ausar IntersectionObserver para crear animaciones en scroll
+-  El objetivo es aprender a usar IntersectionObserver para crear animaciones en scroll
 
 El diseño web se ha creado en [Figma](https://www.figma.com/file/kP0SJhf4iDDa9kAzsz1LM1/Github-projects?node-id=0%3A1) por Carlos cruz valencia
 
