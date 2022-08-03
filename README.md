@@ -1,4 +1,4 @@
-# Titulo del proyecto
+# Gardens-website
 
 ## Inpiracion del proyecto & objetivo
 
