@@ -1,11 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Italiana&display=swap');
 // body{
 //     margin: 0;
 //     overflow-y: hidden;
 //     overflow-x: hidden;
 // }
-// ::-webkit-scrollbar{
-//     display: none;
-// }
+::-webkit-scrollbar{
+    display: none;
+}
+img{
+    -webkit-user-drag: none;
+}
 * {
     list-style-type: none;
     margin-block-start: 0em;
@@ -17,3 +21,5 @@
     text-decoration: none;
     color: black;
 }
+
+$font-family-base: 'Italiana', sans-serif;
